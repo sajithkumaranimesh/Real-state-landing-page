@@ -1,6 +1,6 @@
 # Hero Section (Main Banner)
 * Headline: Find Your Dream Property with Ease
-* Subtext: Explore Listings | Get Consultation
+* Subtext: Explore Listings | Consultation
 
 50K+ Properties Available
 250K+ Happy Clients
